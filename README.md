@@ -17,7 +17,6 @@ Enseño a dirigir la IA como a un equipo: darle objetivos claros, acceso a la in
 
 | Proyecto | Para qué sirve |
 | --- | --- |
-| [Claude Code Second Brain](https://github.com/Luispitik/claude-code-second-brain) | Preparar el contexto y la memoria de un asistente mediante una entrevista guiada. |
 | [Business Launcher](https://github.com/Luispitik/business-launcher) | Definir un negocio de servicios con una entrevista que trabaja la oferta y su salida al mercado. |
 | [Plan de transformación digital](https://github.com/Luispitik/plan-transformacion-digital) | Elaborar un plan para profesionales y pymes a partir de su situación y necesidades. |
 | [Lead Research Brief](https://github.com/Luispitik/lead-research-brief) | Investigar una empresa y preparar un diagnóstico operativo antes de proponer una solución. |
