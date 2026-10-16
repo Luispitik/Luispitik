@@ -23,6 +23,10 @@ Enseño a dirigir la IA como a un equipo: darle objetivos claros, acceso a la in
 
 Cada repositorio incluye sus propias instrucciones y condiciones de uso.
 
+## Proyecto histórico
+
+[Sinapsis](https://github.com/Luispitik/sinapsis) es un proyecto experimental sobre aprendizaje continuo en Claude Code: observa patrones de trabajo y los convierte en reglas reutilizables. Está archivado y se conserva como referencia; no lo recomiendo para nuevas instalaciones.
+
 ## Cómo trabajo
 
 Primero, una tarea concreta y un criterio para saber si mejora. Después, una prueba acotada. La integración llega cuando podemos comprobar el resultado y saber cuándo necesita intervenir una persona.
@@ -34,4 +38,5 @@ Uso asistentes como Claude y ChatGPT, además de Gemini. Desarrollo las aplicaci
 [salgadoia.com](https://salgadoia.com) · [LinkedIn](https://www.linkedin.com/in/luis-salgado-alonso/) · [luis@salgadoia.com](mailto:luis@salgadoia.com)
 
 **Sigue tu curiosidad.**
+
 
